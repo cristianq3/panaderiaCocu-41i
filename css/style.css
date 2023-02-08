@@ -12,18 +12,17 @@ main {
 width: 300px;
 }
 
-.cards-productos {
- 
 
-}
 
 @media all and (max-width:767px) {
 
     .banner-responsive {
-        width: ;
+        width: auto;
         height: 300px;
 object-fit:cover;
 object-position: 50%;
+
+
 
     }
 }
